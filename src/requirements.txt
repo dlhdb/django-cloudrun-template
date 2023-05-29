@@ -1,0 +1,12 @@
+Django==4.2.1
+django-cors-headers==4.0.0
+gunicorn==20.1.0
+uvicorn==0.22.0
+
+# google-cloud-secret-manager
+firebase_admin==6.1.0
+
+python-dotenv==1.0.0
+pydantic==1.10.8
+contextvars==2.4
+httplib2==0.22.0
